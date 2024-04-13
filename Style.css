@@ -1,0 +1,21 @@
+* {
+    color: white;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+}
+#logo {
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+button {
+    background-color: darkgoldenrod;
+}
+::placeholder {
+    color: rgb(3, 3, 3);
+}
+a {
+    margin-right: 150px;
+    text-decoration: none;
+}
